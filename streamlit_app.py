@@ -4,9 +4,6 @@ geography_app.py — 地理測驗網頁（Streamlit Cloud + Firebase）
 
 部署 Secrets：同 chinese_app.py 的 [firebase] 區塊
 GITHUB_RAW_BASE 改成你的地理題庫 repo
-"""
-
-i"""
 geography_app.py — 地理測驗網頁（Streamlit Cloud + Firebase）
 難度：國中、高中
 
